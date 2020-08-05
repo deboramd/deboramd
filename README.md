@@ -11,7 +11,7 @@ I am passionate about health area and how we can use programming to help and sol
 
 ### Olá pessoal 👋
 Sou apaixonada pela área da saúde e como podemos usar a programação para ajudar e resolver problemas nesta e em outras área. Por isso, quero aprender mais sobre o mundo da ciência da computação. Por favor me ajude!
-- 🔭 Eu sou uma estudante de medicina tentando ser uma programadora de computador autodidata. Eu vou estar no terceiro ano da faculdade de medicina no final de agosto. Além disso, este é o meu primeiro mês aprendendo sobre programação de computadores.
+- 🔭 Eu sou uma estudante de medicina tentando ser uma programadora autodidata. Eu vou estar no terceiro ano da faculdade de medicina no final de agosto. Além disso, este é o meu primeiro mês aprendendo sobre programação de computadores.
 - 🌱 Atualmente, estou aprendendo HTML, CSS e JavaScript com a equipe Rocketseat no evento NextLevelWeek (NLW). Lá, estou criando um site educacional, e tem sido um momento incrível e estou aprendendo muito. Também estou aprendendo Python sozinha.
 - 🤔 Estou procurando ajuda com aprendizado de Ciência de Dados, IA e Machine Learning. Esses tópicos são interessantes para mim por causa de como podem ser usados na área médica, trazendo avanços, desenvolvimento e ajudando tanto pacientes como médicos. Então, eu quero muito aprender esses tópicos, mas não sei como ou por onde começar. Se alguém pudesse ajudar, eu ficaria muito agradecida.
 - 💬 Sobre mim: Gosto de música, tecnologias, jogos como The Last of Us, Dying Light, Assassin's Creed, Tomb Raider, Hitman, Guitar Hero (nostálgica aqui) e séries ou filmes na Netflix e Amazon Prime.
