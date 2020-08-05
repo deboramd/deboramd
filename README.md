@@ -9,7 +9,7 @@ I am passionate about health area and how we can use programming to help and sol
 - 📫 How to reach me: https://www.linkedin.com/in/print-debora-moraes/ (Linkedin)| deboramoraesmd@gmail.com (Gmail) | @iDeboraMoraes (Twitter).
 - ⚡ Fun fact: I'm from Brazil so I also study English when I'm programming things in the NLW event. In this case I'm also a self-taught student on English speaking.
 
-### Olá Pessoal 👋
+### Olá pessoal 👋
 Sou apaixonada pela área da saúde e como podemos usar a programação para ajudar e resolver problemas nesta e em outras área. Por isso, quero aprender mais sobre o mundo da ciência da computação. Por favor me ajude!
 - 🔭 Eu sou uma estudante de medicina tentando ser uma programadora de computador autodidata. Eu vou estar no terceiro ano da faculdade de medicina no final de agosto. Além disso, este é o meu primeiro mês aprendendo sobre programação de computadores.
 - 🌱 Atualmente, estou aprendendo HTML, CSS e JavaScript com a equipe Rocketseat no evento NextLevelWeek (NLW). Lá, estou criando um site educacional, e tem sido um momento incrível e estou aprendendo muito. Também estou aprendendo Python sozinha.
