@@ -1,6 +1,6 @@
 ### DÉBORA MORAES
 
-### Hi folks 👋
+### Hi there 👋
 I am passionate about health area and how we can use programming to help and solve problems in this area and every other. Because of that I want to learn more about the world of computer science. Please help me!
 - 🔭 I'm a medical student also trying to be a self-taught computer programmer. I'm going to be in the third year of medical school in the end of August. Also, this is my first month learning about computer programming.
 - 🌱 I’m currently learning HTML, CSS, JavaScript with the Rocketseat team at the NextLevelWeek (NLW) event. There I'm creating a educational website, and it's been a amazing time and I'm learning so much. I'm also learning Python by my own.
