@@ -7,7 +7,7 @@ I am passionate about health area and how we can use programming to help and sol
 - 🤔 I'm also studying Python by myself. In this context, I seek help with the learning of SQL and R technologies, in addition to Data Science, AI and Machine Learning. These topics are interesting to me because of how they can be used in the medical field, bringing advances, development and helping both patients and doctors. So, I really want to learn about it but I don't know how or where to start. If anyone could help, I would be very grateful.
 - 💬 About me: I like music, technologies, games like The Last of Us, Dying Light, Assassin's Creed, Tomb Raider, Hitman, Guitar Hero (nostalgic here), and series or movies on Netflix and Amazon Prime.
 - 📫 How to reach me: https://www.linkedin.com/in/print-debora-moraes/ (Linkedin)| deboramoraesmd@gmail.com (Gmail)
-- ⚡ Fun fact: I'm from Brazil so I also study English when I'm learning programming or for my medical school. In this case I'm also a self-taught student in foreing languages with a focus on English speaking.
+- ⚡ Fun fact: I'm from Brazil so I also study English when I'm learning programming or for my medical school. Although I studied English a language school, most of my knowledge of the English language came through self-study.
 
 
 ### Olá pessoal 👋
@@ -17,4 +17,4 @@ Sou apaixonada pela área da saúde e como podemos usar a programação para aju
 - 🤔 Eu também estou estudando Python sozinha. Nesse contexto, busco ajuda com o aprendizado das tecnologias SQL e R, além de Ciência de Dados, IA e Machine Learning. Esses tópicos são interessantes para mim por causa de como podem ser usados na área médica, trazendo avanços, desenvolvimento e ajudando tanto pacientes como médicos. Então, eu quero muito aprendê-los, mas não sei como ou por onde começar. Se alguém pudesse ajudar, eu ficaria muito agradecida.
 - 💬 Sobre mim: Gosto de música, tecnologias, jogos como The Last of Us, Dying Light, Assassin's Creed, Tomb Raider, Hitman, Guitar Hero (nostálgica aqui) e séries ou filmes na Netflix e Amazon Prime.
 - 📫 Como entrar em contato comigo: https://www.linkedin.com/in/print-debora-moraes/ (Linkedin)| deboramoraesmd@gmail.com (Gmail)
-- ⚡ Curiosidade: Eu sou do Brasil, então eu também estudo Inglês quando estou aprendendo programação ou para minha faculdade de medicina. Nesse caso, eu também sou uma aluna autodidata em idiomas com foco no Inglês.
+- ⚡ Curiosidade: Eu sou do Brasil, então eu também estudo Inglês quando estou aprendendo programação ou para minha faculdade de medicina. Apesar de eu cursar Inglês numa escola de idiomas, a maior parte do meu conhecimento da língua inglesa veio através de um estudo autodidata.
