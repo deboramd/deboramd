@@ -5,7 +5,7 @@
 - ⚡ Interested in Data Science.
 - 🤔 Studying Python. 
 - 💬 English as a second language student.
-- 📫 How to reach me: https://www.linkedin.com/in/print-debora-moraes/ (Linkedin)| deboramoraesmd@gmail.com (Gmail)  
+- 📫 How to reach me: www.linkedin.com/in/print-debora-oliveira (LinkedIn)| https://medium.com/@debora-oliveira (Medium) | deboramoraesmd@gmail.com (Gmail)  
 
 
 ### Olá pessoal 👋
@@ -13,4 +13,4 @@
 - ⚡ Interessada em Data Science.
 - 🤔 Estudando Python.
 - 💬 Estudante de inglês como segunda língua.
-- 📫 Como entrar em contato comigo: https://www.linkedin.com/in/print-debora-moraes/ (Linkedin)| deboramoraesmd@gmail.com (Gmail)
+- 📫 Como entrar em contato comigo: www.linkedin.com/in/print-debora-oliveira (LinkedIn)| https://medium.com/@debora-oliveira (Medium) | deboramoraesmd@gmail.com (Gmail)
